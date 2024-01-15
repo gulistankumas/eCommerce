@@ -1,0 +1,25 @@
+# ninja log v5
+986	1399	7263852763154813	CMakeFiles/eticaretnew2.dir/untitled8/UrunOzellikleri.cpp.obj	5b978866c1e2962d
+4	985	7263852758840639	CMakeFiles/eticaretnew2.dir/untitled8/Magaza.cpp.obj	d81e6605b5d0d802
+41	1187	7263852761018596	CMakeFiles/eticaretnew2.dir/untitled8/SiparisUrunu.cpp.obj	4132954690e00ba0
+27	1210	7263852761189036	CMakeFiles/eticaretnew2.dir/untitled8/PuanYorum.cpp.obj	66fb2fa5fa2a0e58
+35	1411	7263852763269453	CMakeFiles/eticaretnew2.dir/untitled8/SiparisBilgileri.cpp.obj	6caef061531b7a8a
+21	1112	7263852760107233	CMakeFiles/eticaretnew2.dir/untitled8/Musteri.cpp.obj	a51b3249ca16613c
+11	1283	7263852761997418	CMakeFiles/eticaretnew2.dir/untitled8/ETicaretPlatformu.cpp.obj	d4f124c83f3d1459
+59	1201	7263852761118886	CMakeFiles/eticaretnew2.dir/untitled8/UrunKategori.cpp.obj	bdcb76b10e64dc3
+47	1114	7263852760222830	CMakeFiles/eticaretnew2.dir/untitled8/Urun_bilgileri.cpp.obj	c80075713b31b89f
+16	1412	7263852763279453	CMakeFiles/eticaretnew2.dir/untitled8/main.cpp.obj	3f55e187d9738ace
+1412	1598	7263852765124337	eticaretnew2.exe	84ad1947e56c89a6
+53	1354	7263852762687846	CMakeFiles/eticaretnew2.dir/untitled8/MusteriUrunTavsiye.cpp.obj	2d0737058cb9150d
+24	653	7270517659232198	CMakeFiles/eticaretnew2.dir/untitled8/Urun_bilgileri.cpp.obj	1ae71fe243cd03b0
+7	679	7270517659411397	CMakeFiles/eticaretnew2.dir/untitled8/Magaza.cpp.obj	80c3d482f5562731
+16	734	7270517660045057	CMakeFiles/eticaretnew2.dir/untitled8/Musteri.cpp.obj	239ff32466bdd3f4
+29	802	7270517660661737	CMakeFiles/eticaretnew2.dir/untitled8/SiparisUrunu.cpp.obj	59199db9028275f6
+20	849	7270517661171573	CMakeFiles/eticaretnew2.dir/untitled8/PuanYorum.cpp.obj	2b751492e9bdf37f
+37	868	7270517661363609	CMakeFiles/eticaretnew2.dir/untitled8/UrunKategori.cpp.obj	299a6915397a8f69
+3	901	7270517661699386	CMakeFiles/eticaretnew2.dir/untitled8/ETicaretPlatformu.cpp.obj	5991908142a64ad0
+44	1012	7270517662824979	CMakeFiles/eticaretnew2.dir/untitled8/MusteriUrunTavsiye.cpp.obj	e30677647298cd63
+11	1025	7270517662957653	CMakeFiles/eticaretnew2.dir/untitled8/main.cpp.obj	f1f82bf969e00618
+33	1034	7270517663041552	CMakeFiles/eticaretnew2.dir/untitled8/SiparisBilgileri.cpp.obj	c093940091b7104
+654	1055	7270517663273391	CMakeFiles/eticaretnew2.dir/untitled8/UrunOzellikleri.cpp.obj	7b75768c6e4a3234
+1055	1273	7270517665401078	eticaretnew2.exe	84ad1947e56c89a6

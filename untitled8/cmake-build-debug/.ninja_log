@@ -1,0 +1,12 @@
+# ninja log v5
+17	1358	7262456518935805	CMakeFiles/untitled8.dir/UrunOzellikleri.cpp.obj	94aa8eff8c5629b
+25	1534	7262456520535089	CMakeFiles/untitled8.dir/Urun_bilgileri.cpp.obj	672ca4bb4981b80f
+67	1617	7262456521397194	CMakeFiles/untitled8.dir/Magaza.cpp.obj	229ccd6fd9d7287d
+50	1789	7262456523414034	CMakeFiles/untitled8.dir/SiparisUrunu.cpp.obj	baae8d5cbb829603
+6	1345	7262456787437598	CMakeFiles/untitled8.dir/main.cpp.obj	ff5478dd823cc6a6
+33	1954	7262456525049155	CMakeFiles/untitled8.dir/PuanYorum.cpp.obj	5ea3044990563298
+26	1228	7262456786246223	CMakeFiles/untitled8.dir/ETicaretPlatformu.cpp.obj	9e0ea38ca282e06a
+13	1233	7262456786302155	CMakeFiles/untitled8.dir/UrunKategori.cpp.obj	919b0ff8103d78a1
+20	1374	7262456787707022	CMakeFiles/untitled8.dir/SiparisBilgileri.cpp.obj	6aec4895faf12f97
+7	848	7262457938364307	CMakeFiles/untitled8.dir/Musteri.cpp.obj	288f91514adba850
+849	1215	7262457941931416	untitled8.exe	1f03eb9dedc0024b
